@@ -1,5 +1,8 @@
 # Spotify clone
 
+## Live Link
+https://spotify-clone-two-theta-51.vercel.app/
+
 
 ## Overview
 #### Create a music player website like Spotify using React. Where we can play audio songs online. On this music website I added some music albums and multiple songs. We can play song online, and also created the song controller button. To build this website UI I used Tailwind CSS.
